@@ -1,0 +1,99 @@
+LDLC
+
+1700     0.7558823529411764
+             precision    recall  f1-score   support
+
+          0       0.35      0.30      0.32       132
+          1       0.79      0.83      0.81       429
+
+avg / total       0.69      0.71      0.70       561
+
+1700     0.7558823529411764
+             precision    recall  f1-score   support
+
+          0       0.36      0.39      0.38       132
+          1       0.81      0.78      0.80       429
+
+avg / total       0.70      0.69      0.70       561
+
+1700     0.7558823529411764
+             precision    recall  f1-score   support
+
+          0       0.63      0.35      0.45       132
+          1       0.82      0.94      0.88       429
+
+avg / total       0.78      0.80      0.78       561
+
+1700     0.7558823529411764
+             precision    recall  f1-score   support
+
+          0       0.69      0.33      0.44       132
+          1       0.82      0.96      0.88       429
+
+avg / total       0.79      0.81      0.78       561
+
+
+尿酸
+1700     0.1635294117647059
+             precision    recall  f1-score   support
+
+          0       0.89      0.95      0.92       463
+          1       0.64      0.46      0.54        98
+
+avg / total       0.85      0.86      0.85       561
+
+             precision    recall  f1-score   support
+
+          0       0.89      0.89      0.89       463
+          1       0.47      0.47      0.47        98
+
+avg / total       0.81      0.81      0.81       561
+
+             precision    recall  f1-score   support
+
+          0       0.91      0.93      0.92       463
+          1       0.64      0.57      0.60        98
+
+avg / total       0.86      0.87      0.87       561
+
+             precision    recall  f1-score   support
+
+          0       0.86      0.97      0.91       463
+          1       0.65      0.29      0.40        98
+
+avg / total       0.83      0.85      0.82       561
+
+甘油三酯
+
+1700     0.27588235294117647
+             precision    recall  f1-score   support
+
+          0       0.80      0.81      0.80       409
+          1       0.47      0.45      0.46       152
+
+avg / total       0.71      0.71      0.71       561
+
+1700     0.27588235294117647
+             precision    recall  f1-score   support
+
+          0       0.80      0.79      0.80       409
+          1       0.45      0.46      0.46       152
+
+avg / total       0.71      0.70      0.70       561
+
+1700     0.27588235294117647
+             precision    recall  f1-score   support
+
+          0       0.86      0.81      0.83       409
+          1       0.56      0.64      0.60       152
+
+avg / total       0.78      0.76      0.77       561
+
+1700     0.27588235294117647
+             precision    recall  f1-score   support
+
+          0       0.80      0.91      0.85       409
+          1       0.61      0.39      0.48       152
+
+avg / total       0.75      0.77      0.75       561
+
